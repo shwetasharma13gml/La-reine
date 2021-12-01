@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background-image : url(1.jpg);
+	background-size : cover;
+	background-position : center;
+	font-family: sans-serif;
+}
+.form-group
+{ color:  #ff881e   ;}
+.row
+{color:  #0dadf7 ;}
+.form-control
+{color: 
+ #67669c ;}
+ .a {
+  color: hotpink;
+}
+.sidebar-collapse
+{color: hotpink;}

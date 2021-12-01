@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background-image : url(img/4.jpg);
+	 background-position: center;
+     background-size : cover;
+		  background-repeat: no-repeat;
+  background-attachment: fixed;
+	font-family:"Times New Roman", Times, serif;
+}
+h3{color: #e70012;
+  font-family: "Times New Roman", Times, serif;
+font-size: 200%;}
+
+a:link {
+  color: red;
+}
+
+
+a:visited {
+  color: green;
+}
